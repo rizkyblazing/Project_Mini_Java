@@ -27,7 +27,7 @@ VS Code : Run without Debugging (Ctrl + F5)
 
 dengan CLI CMD/Terminal 
 
-masuk ke Folder Project 
+masuk ke Folder Project /SRC
 ketik perintah : "Javac Main.java"
 nanti akan muncul file Layanan0036.class, Pesanan.Class, Pesanan$Main.class
 lalu ketik perintah "java (Main)
